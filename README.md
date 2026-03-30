@@ -8,7 +8,8 @@
 
 - Cybersecurity 🔐  
 - Penetration Testing 💻  
-- AI in Security 🤖  
+- AI in Security 🤖
+- Red Teaming 🛡️ 
 
 </details>
 
